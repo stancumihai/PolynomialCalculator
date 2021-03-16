@@ -47,6 +47,7 @@ public class SubtractionTest implements AbstractValidate {
         polyCalcModel.subtraction(polynomial1, polynomial2);
         String str = PolynomDisplay.constructFromPolynomToString(polyCalcModel.getResult());
         Assertions.assertEquals(str, "X^2+2X");
+        System.out.println("sth");
     }
 
     @Test
