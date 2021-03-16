@@ -14,5 +14,6 @@ public class Main {
         PolynomValidator polynomValidator = new PolynomValidator();
         PolyCalcController polyCalcController = new PolyCalcController(polyCalcView, polynomValidator, polyCalcModel);
         polyCalcView.setVisible(true);
+        polyCalcView.setVisible(true);
     }
 }
