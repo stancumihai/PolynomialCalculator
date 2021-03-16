@@ -1,10 +1,10 @@
 package testMethods;
 
 
-import company.model.Monomial;
-import company.model.Polynomial;
-import company.utils.Regex;
-import company.utils.StringToPolynomConverter;
+import com.company.model.Monomial;
+import com.company.model.Polynomial;
+import com.company.utils.Regex;
+import com.company.utils.StringToPolynomConverter;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;

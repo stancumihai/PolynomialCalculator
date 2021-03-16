@@ -1,9 +1,9 @@
 
 package testMethods;
 
-import company.model.Monomial;
-import company.model.Polynomial;
-import company.utils.PolynomDisplay;
+import com.company.model.Monomial;
+import com.company.model.Polynomial;
+import com.company.utils.PolynomDisplay;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import testOperations.AbstractValidate;
