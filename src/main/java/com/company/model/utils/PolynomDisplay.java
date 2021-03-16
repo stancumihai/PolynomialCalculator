@@ -1,7 +1,7 @@
-package com.company.utils;
+package com.company.model.utils;
 
-import com.company.model.Monomial;
-import com.company.model.Polynomial;
+import com.company.model.calculatorModel.Monomial;
+import com.company.model.calculatorModel.Polynomial;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

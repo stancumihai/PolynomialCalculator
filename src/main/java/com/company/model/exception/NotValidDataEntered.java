@@ -1,4 +1,4 @@
-package com.company.exception;
+package com.company.model.exception;
 
 public class NotValidDataEntered extends RuntimeException{
 

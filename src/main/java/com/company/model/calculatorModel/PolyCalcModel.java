@@ -1,6 +1,6 @@
-package com.company.model;
+package com.company.model.calculatorModel;
 
-import com.company.utils.PolynomDisplay;
+import com.company.model.utils.PolynomDisplay;
 import com.company.view.PolyCalcView;
 
 import javax.swing.*;

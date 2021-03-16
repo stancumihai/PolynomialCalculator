@@ -1,6 +1,6 @@
 package com.company.view;
 
-import com.company.model.Operation;
+import com.company.model.calculatorModel.Operation;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

@@ -1,4 +1,6 @@
-package com.company.model;
+package com.company.model.calculatorModel;
+
+import com.company.model.calculatorModel.Monomial;
 
 import java.util.ArrayList;
 

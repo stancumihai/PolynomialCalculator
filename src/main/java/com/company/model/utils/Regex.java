@@ -1,4 +1,4 @@
-package com.company.utils;
+package com.company.model.utils;
 
 public class Regex {
 

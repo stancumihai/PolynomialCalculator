@@ -1,4 +1,4 @@
-package com.company.model;
+package com.company.model.calculatorModel;
 
 public enum Operation {
 

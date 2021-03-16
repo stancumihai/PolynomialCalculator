@@ -1,8 +1,8 @@
 package com.company;
 
 import com.company.controller.PolyCalcController;
-import com.company.model.PolyCalcModel;
-import com.company.validator.PolynomValidator;
+import com.company.model.calculatorModel.PolyCalcModel;
+import com.company.model.validator.PolynomValidator;
 import com.company.view.PolyCalcView;
 
 public class Main {

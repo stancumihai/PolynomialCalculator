@@ -1,6 +1,6 @@
-package com.company.validator;
+package com.company.model.validator;
 
-import com.company.exception.NotValidDataEntered;
+import com.company.model.exception.NotValidDataEntered;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;
